@@ -1,0 +1,1 @@
+print("File3 content")
